@@ -1,0 +1,224 @@
+
+Nome prodotto acquistato: Marlboro Gold
+Prezzo: 5,5
+Quantita: x3
+Prezzo Totale Pagato: 16,5
+ RESTO EROGATO:0,5
+
+------------------------------------------------------------
+Nome prodotto acquistato: Chiaravalle Gialle
+Prezzo: 4,5
+Quantita: x1
+Prezzo Totale Pagato: 4,5
+ RESTO EROGATO:1,5
+
+------------------------------------------------------------
+Nome prodotto acquistato: Winston Rosse
+Prezzo: 5
+Quantita: x1
+Prezzo Totale Pagato: 5
+
+------------------------------------------------------------
+Nome prodotto acquistato: Marlboro Gold
+Prezzo: 5,5
+Quantita: x1
+Prezzo Totale Pagato: 5,5
+ RESTO EROGATO:0,1
+
+------------------------------------------------------------
+Nome prodotto acquistato: Marlboro Gold
+Prezzo: 5,5
+Quantita: x1
+Prezzo Totale Pagato: 5,5
+ RESTO EROGATO:0,1
+
+------------------------------------------------------------
+Nome prodotto acquistato: Chiaravalle Blue
+Prezzo: 4,7
+Quantita: x7
+Prezzo Totale Pagato: 32,9
+
+...RESTO NON DISPONIBILE NELLA MACCHINETTA, PORTARE LO SCONTRINO AL TABACCAIO...
+ RESTO DA RITIRARE:17,1
+
+--------------------------------------------------------------
+Nome prodotto acquistato: Marlboro Gold
+Prezzo: 5,5
+Quantita: x1
+Prezzo Totale Pagato: 5,5
+
+------------------------------------------------------------
+Nome prodotto acquistato: Winston Blue
+Prezzo: 5
+Quantita: x10
+Prezzo Totale Pagato: 50
+
+------------------------------------------------------------
+Nome prodotto acquistato: Lucky Strike Rosse
+Prezzo: 5
+Quantita: x8
+Prezzo Totale Pagato: 40
+
+------------------------------------------------------------
+Nome prodotto acquistato: PallMall
+Prezzo: 5,5
+Quantita: x10
+Prezzo Totale Pagato: 55
+
+------------------------------------------------------------
+Nome prodotto acquistato: Lucky Strike Blue
+Prezzo: 5,2
+Quantita: x7
+Prezzo Totale Pagato: 36,4
+
+------------------------------------------------------------
+Nome prodotto acquistato: Chiaravalle Gialle
+Prezzo: 4,5
+Quantita: x7
+Prezzo Totale Pagato: 31,5
+
+------------------------------------------------------------
+Nome prodotto acquistato: Marlboro Rosse
+Prezzo: 5
+Quantita: x6
+Prezzo Totale Pagato: 30
+
+------------------------------------------------------------
+Nome prodotto acquistato: Marlboro Touch
+Prezzo: 5,2
+Quantita: x2
+Prezzo Totale Pagato: 10,4
+
+------------------------------------------------------------
+Nome prodotto acquistato: MS Rosse
+Prezzo: 5,2
+Quantita: x3
+Prezzo Totale Pagato: 15,6
+
+------------------------------------------------------------
+Nome prodotto acquistato: MS Rosse
+Prezzo: 5,2
+Quantita: x4
+Prezzo Totale Pagato: 20,8
+ RESTO EROGATO:0,2
+
+------------------------------------------------------------
+Nome prodotto acquistato: Camel Blue
+Prezzo: 5,2
+Quantita: x5
+Prezzo Totale Pagato: 26
+
+------------------------------------------------------------
+Nome prodotto acquistato: MS Gialle
+Prezzo: 5,2
+Quantita: x8
+Prezzo Totale Pagato: 41,6
+
+------------------------------------------------------------
+Nome prodotto acquistato: Winston Blue 100
+Prezzo: 5,5
+Quantita: x10
+Prezzo Totale Pagato: 55
+
+------------------------------------------------------------
+Nome prodotto acquistato: Winston Rosse
+Prezzo: 5
+Quantita: x9
+Prezzo Totale Pagato: 45
+
+------------------------------------------------------------
+Nome prodotto acquistato: SmokeKit
+Prezzo: 2,5
+Quantita: x10
+Prezzo Totale Pagato: 25
+
+------------------------------------------------------------
+Nome prodotto acquistato: Accendino
+Prezzo: 1
+Quantita: x10
+Prezzo Totale Pagato: 10
+
+------------------------------------------------------------
+Nome prodotto acquistato: Philippe Morris
+Prezzo: 5,5
+Quantita: x6
+Prezzo Totale Pagato: 33
+
+------------------------------------------------------------
+Nome prodotto acquistato: Chesterfield
+Prezzo: 5,5
+Quantita: x10
+Prezzo Totale Pagato: 55
+
+------------------------------------------------------------
+Nome prodotto acquistato: Chiaravalle Verdi
+Prezzo: 4,7
+Quantita: x4
+Prezzo Totale Pagato: 18,8
+ RESTO EROGATO:1,2
+
+------------------------------------------------------------
+Nome prodotto acquistato: Diana
+Prezzo: 5,2
+Quantita: x10
+Prezzo Totale Pagato: 52
+
+------------------------------------------------------------
+Nome prodotto acquistato: Marlboro Gold
+Prezzo: 5,5
+Quantita: x1
+Prezzo Totale Pagato: 5,5
+
+------------------------------------------------------------
+Nome prodotto acquistato: Chiaravalle Gialle
+Prezzo: 4,5
+Quantita: x1
+Prezzo Totale Pagato: 4,5
+
+...RESTO NON DISPONIBILE NELLA MACCHINETTA, PORTARE LO SCONTRINO AL TABACCAIO...
+ RESTO DA RITIRARE:5,5
+
+--------------------------------------------------------------
+Nome prodotto acquistato: Chesterfield
+Prezzo: 5,5
+Quantita: x1
+Prezzo Totale Pagato: 5,5
+
+...RESTO NON DISPONIBILE NELLA MACCHINETTA, PORTARE LO SCONTRINO AL TABACCAIO...
+ RESTO DA RITIRARE:4,5
+
+--------------------------------------------------------------
+Nome prodotto acquistato: Marlboro Gold
+Prezzo: 5,5
+Quantita: x2
+Prezzo Totale Pagato: 11
+
+------------------------------------------------------------
+Nome prodotto acquistato: Marlboro Gold
+Prezzo: 5,5
+Quantita: x2
+Prezzo Totale Pagato: 11
+
+------------------------------------------------------------
+Nome prodotto acquistato: Marlboro Touch
+Prezzo: 5,2
+Quantita: x1
+Prezzo Totale Pagato: 5,2
+
+------------------------------------------------------------
+Nome prodotto acquistato: Marlboro Gold
+Prezzo: 5,5
+Quantita: x2
+Prezzo Totale Pagato: 11
+
+...RESTO NON DISPONIBILE NELLA MACCHINETTA, PORTARE LO SCONTRINO AL TABACCAIO...
+ RESTO DA RITIRARE:4
+
+--------------------------------------------------------------
+Nome prodotto acquistato: Marlboro Rosse
+Prezzo: 5
+Quantita: x2
+Prezzo Totale Pagato: 10
+ RESTO EROGATO:1
+
+------------------------------------------------------------

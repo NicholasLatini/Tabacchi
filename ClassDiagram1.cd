@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TabacchiFinale.Carrello.Carrello" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <AssociationLine Name="prod" Type="TabacchiFinale.ProdottoMacchina.Prodotto">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.039" Y="0.37" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>gAAAAIAAQCAAGIAAhBKAACAaAABBBAAAIAAEABCAAAA=</HashCode>
+      <FileName>Carrello\Carrello.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="prod" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TabacchiFinale.Database.FileDB" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAQBABAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Database\FileDB.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TabacchiFinale.Database.FileDBResto" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAQBABAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Database\FileDBResto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TabacchiFinale.Macchina" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AxEmQIiCCSAQAmAAAGiEEQAGUwCAYACYhAYABEREAJQ=</HashCode>
+      <FileName>Macchina.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="db" />
+      <Field Name="carrello" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TabacchiFinale.Program" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TabacchiFinale.Pagamento.Pagamento" Collapsed="true">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCAAAATYCCAACAAIAFmAChBLgAhB6AAAABAZIAACBOg=</HashCode>
+      <FileName>Pagamento\Pagamento.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="prodotto" />
+      <Field Name="scontrino" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TabacchiFinale.ProdottoMacchina.Prodotto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYABAAgAAAAAAAAAAAAABAAAAAAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>ProdottoMacchina\Prodotto.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TabacchiFinale.Properties.Resources" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TabacchiFinale.Properties.Settings" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TabacchiFinale.Scontrino.Scontrino" Collapsed="true">
+    <Position X="8.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQQAAAAAAAAIAAAAAgAABQAAAAAAEACAAAAA=</HashCode>
+      <FileName>Scontrino\Scontrino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TabacchiFinale.Visitors.ProdottoPrezzoTotale" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAAAAAAAQAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Visitors\ProdottoPrezzoTotale.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="TabacchiFinale.Database.IDatabase" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database\IDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TabacchiFinale.Visitors.IVisitor" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Visitors\IVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TabacchiFinale.Visitors.IVisitorHost" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Visitors\IVisitorHost.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

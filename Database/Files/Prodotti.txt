@@ -1,0 +1,20 @@
+0;Marlboro Gold;5,5;3;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\MarlboroGold.jpg
+1;Marlboro Rosse;5;8;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\MarlboroRosse.jpg
+2;Marlboro Touch;5,2;9;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\MarlboroTouch.jpg
+3;Camel Blue;5,2;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\CamelBlue.jpg
+4;Chiaravalle Verdi;4,7;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\ChiaravalleVerdi.jpg
+5;Chiaravalle Blue;4,7;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\ChiaravalleBlue.jpg
+6;Chiaravalle Gialle;4,5;9;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\ChiaravalleGialle.jpg
+7;MS Rosse;5,2;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\MSRosse.jpg
+8;MS Gialle;5,2;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\MSGialle.jpg
+9;Chesterfield;5,5;9;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\Chesterfield.jpg
+10;Diana;5,2;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\Diana.jpg
+11;Lucky Strike Rosse;5;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\LuckyRosse.jpg
+12;Lucky Strike Blue;5,2;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\LuckyBlue.jpg
+13;PallMall;5,5;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\PallMall.jpg
+14;Philippe Morris;5,5;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\PhilipMorris.jpg
+15;Winston Blue;5;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\WinstonBlue.jpg
+16;Winston Blue 100;5,5;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\WinstonBlue100.jpg
+17;Winston Rosse;5;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\WinstonRosse.jpg
+18;SmokeKit;2,5;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\SmokKit.jpg
+19;Accendino;1;10;C:\Users\nicho\OneDrive\Desktop\TabacchiFinale\Images\ProdottiDisponibili\Accendino.jpg
