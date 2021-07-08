@@ -212,7 +212,7 @@ namespace TabacchiFinale.Pagamento
             }
         }
 
-        //funzione che calcola il resto da erogare
+        //funzione che controlla lo stato di erogazione e restituisce il resto da erogare
         private Double ControlloErogazioneResto(Double restoCliente)
         {
             Double restoDisponibileMacchina = restoDisponibile.GetData();
