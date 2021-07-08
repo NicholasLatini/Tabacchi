@@ -216,7 +216,7 @@ namespace TabacchiFinale.Pagamento
         private Double ControlloErogazioneResto(Double restoCliente)
         {
             Double restoDisponibileMacchina = restoDisponibile.GetData();
-            Double restoErogato = 0;
+            
 
             //se il resto della macchina è maggiore di 3, allora può erogare un eventuale resto altrimenti bisogna scrivere nello scontrino che devi ricevere il resto mancante direttamente dal tabaccaio
             if(restoDisponibileMacchina > 0 && restoCliente > 0 && restoCliente < resto_max)
@@ -225,17 +225,17 @@ namespace TabacchiFinale.Pagamento
                 //la variabile restoCliente fa la differenza tra il valore della progressbar di pagamento e il prezzo totale.
                 //questa differenza può dare solamente valori = o > 0.
                 
-                restoErogato = restoCliente;
+                
                 this.statoErogazione = true;
                 aggiornaRestoDisponibileMacchina(restoDisponibileMacchina-restoCliente);     
          
             }
             else if(restoDisponibileMacchina >= 0 && restoCliente > resto_max)
             {
-                restoErogato = restoCliente;
+                
                 this.statoErogazione = false;
             }
-            return restoErogato;
+            return restoCliente;
         }
 
 
