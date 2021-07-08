@@ -34,10 +34,10 @@ namespace TabacchiFinale.Scontrino
             bool b = false;
             string path = Path.GetFullPath(@"..\..\Ordine.txt");
             StreamWriter sw;
-            // This text is added only once to the file.
+            //controlla che esista il file
             if (!File.Exists(path))
             {
-                // Create a file to write to.
+                //crea file in cui scrivere
                 sw = File.CreateText(path);
 
                 sw.WriteLine("Nome prodotto acquistato: " + this.nomeProd +
@@ -50,8 +50,7 @@ namespace TabacchiFinale.Scontrino
             }
             else
             {
-                // This text is always added, making the file longer over time
-                // if it is not deleted.
+                //se il file esiste aggiunge altro testo al file
                 sw = File.AppendText(path);
                 
                 sw.WriteLine("Nome prodotto acquistato: " + this.nomeProd +
